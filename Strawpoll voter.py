@@ -1,6 +1,5 @@
 from selenium import webdriver
 from time import sleep
-import pyautogui
 import requests
 import bs4
 
